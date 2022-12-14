@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kraft-VAERK
 - 👀 I’m interested in the ladies
-- 🌱 I’m currently learning Kuberneets
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on k8s project
 - 📫 How to reach me, In the Cloud
 
